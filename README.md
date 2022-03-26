@@ -6,11 +6,10 @@ These tutorials will take you from absolute beginner to absolute pro in the Juli
 - Working with types
 - Programming paradigms
 - Multiple dispatch
-- Unsafe types
-- Data Analysis
-- Data loading and saving
-- JLD2
-- Machine-learning
+- Anonymous types
 - Software Engineering
-- Optimization
+- Data Engineering
+- Data Analysis
+- Web development
+- Machine-learning
 #### And more!
